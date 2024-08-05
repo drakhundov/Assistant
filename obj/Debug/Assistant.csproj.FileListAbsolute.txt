@@ -1,0 +1,7 @@
+D:\MyExpansions\Assistant\bin\Debug\Assistant.exe.config
+D:\MyExpansions\Assistant\bin\Debug\Assistant.exe
+D:\MyExpansions\Assistant\bin\Debug\Assistant.pdb
+D:\MyExpansions\Assistant\obj\Debug\Assistant.csprojAssemblyReference.cache
+D:\MyExpansions\Assistant\obj\Debug\Assistant.csproj.CoreCompileInputs.cache
+D:\MyExpansions\Assistant\obj\Debug\Assistant.exe
+D:\MyExpansions\Assistant\obj\Debug\Assistant.pdb
